@@ -1,0 +1,47 @@
+[
+    {
+      "id":"1",
+      "nombre": "Combo Tacos al Pastor",
+      "descripcion": "3 tacos al pastor con salsa, cebolla y cilantro, acompañados de una bebida.",
+      "precio": "120",
+      "alimento": "tacos de pastor",
+      "bebida": "jugo",
+      "estatus": "Disponible"
+    },
+    {
+      "id": "2",
+      "nombre": "Combo Burritos",
+      "descripcion": "2 burritos de carne asada con guacamole y frijoles, acompañados de una bebida.",
+      "precio": "150",
+      "alimento": "burritos de carne asada, frijoles",
+      "bebida": "coca-cola",
+      "estatus": "Disponible"
+    },
+    {
+      "id": "3",
+      "nombre": "Combo Enchiladas",
+      "descripcion": "Enchiladas de pollo con salsa roja, acompañadas de arroz y frijoles.",
+      "precio": "130",
+      "alimento": "Enchilada de pollo, arroz, frijoles",
+      "bebida": "coca-cola",
+      "estatus": "Disponible"
+    },
+    {
+      "id": "4",
+      "nombre": "Combo Quesadillas",
+      "descripcion": "4 quesadillas de queso con salsas y guacamole, acompañadas de una bebida.",
+      "precio": "110",
+      "alimento": "Quesadillas, guacamole",
+      "bebida": "Agua de jamaica",
+      "estatus": "Disponible"
+    },
+    {
+      "id": "5",
+      "nombre": "Combo Tostadas",
+      "descripcion": "3 tostadas de tinga de pollo con lechuga, crema y salsa, acompañadas de una bebida.",
+      "precio": "125",
+      "alimento": "Tostadas de tinga",
+      "bebida": "Agua de horchata",
+      "estatus": "Disponible"
+    }
+  ]

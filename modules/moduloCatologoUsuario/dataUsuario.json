@@ -1,0 +1,27 @@
+[
+    {
+        "id" : "1",
+        "nombre" : "Uriel Antonio",
+         "contrasena" : "Palito",
+         "estatus" : "Activo"
+    },
+    {
+        "id" : "2",
+        "nombre" : "Diego Alejandro",
+        "contrasena" : "Fort123",
+         "estatus" : "Activo"
+
+    },
+    {   
+        "id" : "3",
+        "nombre" : "Roger echeveste",
+        "contrasena" : "Hola329",
+         "estatus" : "Activo"
+    },
+    {
+        "id" : "4",
+        "nombre" : "Michelle",
+        "contrasena" : "Hola233",
+         "estatus" : "Activo"
+    }
+]
